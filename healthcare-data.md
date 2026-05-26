@@ -1,9 +1,9 @@
 ---
 title: Health Care Data
 description: Ready-to-use datasets on DataHub about Health Care.
-keywords: Healthcare, DNA Sequencing Costs, Pharmaceutical Drug Spending by countries and Data Analytics
+keywords: Healthcare, DNA Sequencing Costs, Pharmaceutical Drug Spending by countries and Data Analytics, Medicare, Medicaid
 date: 2018-06-07
-modified: 2018-06-07
+modified: 2026-05-09
 ---
 
 ## Costs assosiated with DNA sequencing since 2001
@@ -17,3 +17,7 @@ DNA Sequencing Costs:
 Pharmaceutical Drug Spending by countries with indicators such as a share of total health spending, in USD per capita (using economy-wide PPPs) and as a share of GDP. Plus, total spending by each countries in the specific year:
 
 [core/pharmaceutical-drug-spending](https://datahub.io/core/pharmaceutical-drug-spending)
+
+## Medicare and Medicaid Data
+
+[Data.CMS.gov](https://data.cms.gov) gives you direct access to public data released by the Centers for Medicare & Medicaid Services (CMS). All data is available for free as public use files and they have an extensive API. Data covers an array of topics, including high level information about the programs and their spending, beneficiary characteristics, and information about healthcare providers.
