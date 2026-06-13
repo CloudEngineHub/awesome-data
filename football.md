@@ -28,7 +28,7 @@ _Where's the open football data?_
 ## World Cup
 
 - [openfootball/world-cup :octocat:](https://github.com/openfootball/world-cup)
-- [World Cup 2026 Tour Dataset](https://ay-worldcup2026.zeabur.app/dataset) - 2026 World Cup fixtures dataset with local-time API, CSV, JSONL, OpenAPI, and calendar feed
+- [World Cup 2026 Tour Dataset and API](https://ay-worldcup2026.zeabur.app/dataset) - 2026 World Cup fixtures with CSV, JSONL, calendar feed, OpenAPI, and a free local-time JSON API ([docs](https://ay-worldcup2026.zeabur.app/developers))
 - [lsv/fifa-worldcup-2018 :octocat:](https://github.com/lsv/fifa-worldcup-2018) - FIFA Worldcup 2018 - json data (The data file will be updated within a hour after a match is over)
 - [kidehen/worldcup2014 :octocat:](https://github.com/kidehen/worldcup2014) - World cup data
 - [estiens/world_cup_json :octocat:](https://github.com/estiens/world_cup_json) - rails backend for a scraper that outputs World Cup data as JSON
