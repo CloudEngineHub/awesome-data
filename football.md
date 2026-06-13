@@ -3,7 +3,7 @@ title: Football Data
 description: A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
 keywords: football data and API, world cup, stadium data, football apps, UEFA coefficients
 date: 2017-12-13
-modified: 2026-02-08
+modified: 2026-06-13
 ---
 
 *Contributions welcome. Anything missing? Send in a pull request. Thanks.*
@@ -28,6 +28,7 @@ _Where's the open football data?_
 ## World Cup
 
 - [openfootball/world-cup :octocat:](https://github.com/openfootball/world-cup)
+- [World Cup 2026 Tour Dataset](https://ay-worldcup2026.zeabur.app/dataset) - 2026 World Cup fixtures dataset with local-time API, CSV, JSONL, OpenAPI, and calendar feed
 - [lsv/fifa-worldcup-2018 :octocat:](https://github.com/lsv/fifa-worldcup-2018) - FIFA Worldcup 2018 - json data (The data file will be updated within a hour after a match is over)
 - [kidehen/worldcup2014 :octocat:](https://github.com/kidehen/worldcup2014) - World cup data
 - [estiens/world_cup_json :octocat:](https://github.com/estiens/world_cup_json) - rails backend for a scraper that outputs World Cup data as JSON
